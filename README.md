@@ -2,4 +2,5 @@
 
 Objectives:
 -Deploy a Netflix clone to production
+
 -Leverage Netlify and DataStax Astra DB
